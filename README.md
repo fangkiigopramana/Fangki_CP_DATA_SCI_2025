@@ -1,6 +1,6 @@
                           
  
-![Thumbnail Picture](https://github.com/fangkiigopramana/Fangki_CP_DATA_SCI_2025/refs/heads/main/Gemini_Generated_Image_sxobs2sxobs2sxob.png)
+![Thumbnail Picture](https://github.com/fangkiigopramana/Fangki_CP_DATA_SCI_2025/raw/main/Gemini_Generated_Image_sxobs2sxobs2sxob.png)
  
 # Data Classification & Summarization of US Presidential Debates
 
